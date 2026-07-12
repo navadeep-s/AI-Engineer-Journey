@@ -40,3 +40,12 @@ while count >= 1:
     count = count - 1
 
 print("Start")
+
+for number in range(3, 13, 3):
+    print(number)
+
+count = 2
+
+while count <= 9:
+    print(count)
+    count = count + 2
