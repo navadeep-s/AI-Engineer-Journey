@@ -1,0 +1,6 @@
+Perplexity,Perplexity AI
+Llama,Meta
+Ollama,Ollama
+Cursor,Anysphere
+Cohere,Cohere
+C:\Users\navad\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/navad/OneDrive/Desktop/AI Engineer Journey/day11_ai_tool_tracker.py",C:\Users\navad\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/navad/OneDrive/Desktop/AI Engineer Journey/day11_ai_tool_tracker.py"
